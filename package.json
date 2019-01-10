@@ -1,0 +1,14 @@
+{
+  "name": "final-form-mutate",
+  "version": "0.0.1",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "repository": "git@github.com:doniyor2109/final-form-mutate.git",
+  "license": "MIT",
+  "devDependencies": {
+    "final-form": "^4.11.0"
+  },
+  "peerDependencies": {
+    "final-form": "^4.11.0"
+  }
+}
